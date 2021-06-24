@@ -11,3 +11,4 @@
 * `#` instead of `v-slot`
 * Scoped slots
 * Dynamic components with `<component :is="my-component"></component>`
+* Keeping alive dynamic components with `<keep-alive></keep-alive>`
