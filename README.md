@@ -3,3 +3,4 @@
 * Registering local components
 * Scoped styles
 * Slots
+* Named slots
