@@ -9,3 +9,5 @@
 * Default content on slots
 * `this.$slots`
 * `#` instead of `v-slot`
+* Scoped slots
+* Dynamic components with `<component :is="my-component"></component>`
